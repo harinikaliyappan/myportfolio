@@ -2,8 +2,8 @@ import React from "react";
 import {
   ArrowDownRight,
   ArrowUpRight,
-  Github,
   Linkedin,
+  Github,
   Mail
 } from "lucide-react";
 
